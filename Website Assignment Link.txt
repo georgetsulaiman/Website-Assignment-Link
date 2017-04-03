@@ -1,0 +1,4 @@
+This is the link to a Stock Management Develepment Console where I produced the front-end work for a website named SOSA Database.
+
+
+http://student30371.bucomputing.uk/console
